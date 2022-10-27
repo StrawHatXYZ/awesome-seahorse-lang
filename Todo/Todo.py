@@ -1,3 +1,7 @@
+# fizzbuzz
+# Built with Seahorse v0.2.1
+#
+# On-chain, persistent FizzBuzz!
 
 from seahorse.prelude import *
 
@@ -49,5 +53,4 @@ def mark_task(owner:Signer,todoIndex:u8,userprofile:UserProfile,todoaccount:Todo
 
   
   
-
 
