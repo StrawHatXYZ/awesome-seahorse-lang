@@ -15,7 +15,7 @@ First let us install the command line tools required to build. We need <a href="
 
 Once done, you should be able to run the following commands successfully:
 
-solana -V<br/>
-anchor -V<br/>
-node -v<br/>
-seahorse -V<br/>
+solana --version<br/>
+anchor --version<br/>
+node --version<br/>
+seahorse --version<br/>
